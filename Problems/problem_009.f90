@@ -18,7 +18,7 @@ PROGRAM problem_009
 
       IF ((a + b + c) .EQ. 1000) THEN
 
-        WRITE (*,*) "Got!"
+        WRITE (*,*) "Accomplished!"
        
         prod = a * b * c
        
